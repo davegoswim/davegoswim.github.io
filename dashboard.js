@@ -4,7 +4,11 @@
   'use strict'
 
   feather.replace({ 'aria-hidden': 'true' })
-
+  // // Sidebar
+  // var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+  // tooltipTriggerList.forEach(function (tooltipTriggerEl) {
+  //   new bootstrap.Tooltip(tooltipTriggerEl)
+  // })
   // Graphs
   var ctx = document.getElementById('myChart')
   // eslint-disable-next-line no-unused-vars
