@@ -1,10 +1,10 @@
 # davegoswim.github.io
+Bro's Hackathon project for TW Carbon Reduce
 
 ## css
 1. 1B9431
     - rgb(27, 148, 49)
     - 
-### ref
+## ref
 https://getbootstrap.com/docs/4.0/utilities/colors/
-
 https://www.rapidtables.com/convert/color/hex-to-rgb.html
