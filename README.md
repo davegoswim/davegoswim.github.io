@@ -1,5 +1,7 @@
 # davegoswim.github.io
-Bro's Hackathon project for TW Carbon Reduce
+Bro's Hackathon project for TW Carbon Reduction 
+Use IoT to help reeduce CO emission from growing vegetables in South America 
+CO Credit 
 
 ## css
 1. 1B9431
